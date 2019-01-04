@@ -1,7 +1,7 @@
-# allappslockfingerprint
-ir.arna.finger.allapplock
-قفل برنامه ها،اثر انگشتی و لمسی
-Privacy Policy of ir.arna.finger.allapplock
+# myapp.sawi.arina.com
+myapp.sawi.arina.com
+فضول کش
+Privacy Policy of myapp.sawi.arina.com
 ## Privacy Policy
 
 MasterAppDeveloper built the fingerprint applocker as an Ad Supported app. This SERVICE is provided by MasterAppDeveloper at no cost and is intended for use as is.
