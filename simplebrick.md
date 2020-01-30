@@ -75,7 +75,7 @@ This Service may contain links to other sites. If you click on a third-party lin
                     or services.
 
 **Children's Privacy**
-we are not collecting any personal information from children
+we are not collecting any personal information from children.
                     
 **Changes to This Privacy Policy**
 
